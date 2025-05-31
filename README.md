@@ -20,7 +20,7 @@ This project explores the usage patterns of the NYC Citi Bike system using Micro
 ---
 📂 Project Files
 
-- - [📊 CitiBike Usage Analysis Excel File](./CitiBike_Usage_Analysis.xlsx) -— Excel workbook with data analysis, pivot tables, and visuals
+- [📊 CitiBike Usage Analysis Excel File](./CitiBike_Usage_Analysis.xlsx) -— Excel workbook with data analysis, pivot tables, and visuals
 - [📽️ CitiBike Usage Project Presentation (PPTX)](./CitiBike_Usage_Project_Presentation.pptx)  — PowerPoint file presenting key findings and charts
 
 ---
